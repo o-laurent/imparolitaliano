@@ -1,0 +1,553 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+uG^Jk3;zOn	Basique	Vocabulaire italien	une fleur	un fiore	
+tt<s%B[dMK	Basique	Vocabulaire italien	un stylo	una penna	
+lVdl2}$3,X	Basique	Vocabulaire italien	des stylos	le penne	
+cRIZAx*T&b	Basique	Vocabulaire italien	Les stylos sont jaunes	Le penne sono gialle	
+F47NV;c%)i	Basique	Vocabulaire italien	un cadre	una cornice	
+Cie[5Byujf	Basique	Vocabulaire italien	Les cadres sont rouges	Le cornici sono rosse	
+umP:Bo5G>P	Basique	Vocabulaire italien	les fleurs	i fiori	
+Iew1d;sP5(	Basique	Vocabulaire italien	Le vêtement est vert	Il vestito è verde	
+QpTEqr9.IU	Basique	Vocabulaire italien	La jupe est verte	La gonna è verde	
+N=W$`<YT,0	Basique	Vocabulaire italien	Franca a un vêtement bleu	Franca a un vestito blu	
+m{Rr++Pa.n	Basique	Vocabulaire italien	les lits	i letti	
+ncS37`GDQL	Basique	Vocabulaire italien	Le père	Il padre	
+L8M([yv:9y	Basique	Vocabulaire italien	Les pères	i padri	
+N%_?Np2q1I	Basique	Vocabulaire italien	les mères	le madri	
+"L<fW/Vk#5z"	Basique	Vocabulaire italien	une clé	una chiave	
+zl.%m*[,&Y	Basique	Vocabulaire italien	les clés	le chiavi	
+H7P`/9+@)i	Basique (saisissez la réponse)	Vocabulaire italien	le dictionnaire	il dizionario	
+n^Ygj>N!OT	Basique (saisissez la réponse)	Vocabulaire italien	la peur	il timore	
+Rgkv0K(?w|	Basique (saisissez la réponse)	Vocabulaire italien	frapper	colpire	
+K+JnG!bN)3	Basique (saisissez la réponse)	Vocabulaire italien	recruter	assumere	
+wM{%)%K.~O	Basique (saisissez la réponse)	Vocabulaire italien	la chronique	la cronaca	
+rs/+qXbD<^	Basique (saisissez la réponse)	Vocabulaire italien	un dessinateur	un disegnatore	
+xd_$TAuUZ.	Basique (saisissez la réponse)	Vocabulaire italien	maintenant, à cette heure ci&nbsp;	ormai	
+OHO]b1Ry<;	Basique (saisissez la réponse)	Vocabulaire italien	<b>livrer</b>	<strong>consegnare</strong>	
+i1:%KrdhfZ	Basique (saisissez la réponse)	Vocabulaire italien	le script	il copione	
+wS3T8a:SfO	Basique (saisissez la réponse)	Vocabulaire italien	pendant que	mentre	
+Cov%WoaK+g	Basique (saisissez la réponse)	Vocabulaire italien	une boule à thé	un infusore a uovo	
+DGew[fCIHU	Basique (saisissez la réponse)	Vocabulaire italien	dire bonjour à qqn	salutare qn	
+L$ue|{q3x&	Basique (saisissez la réponse)	Vocabulaire italien	l'après-midi	il pomeriggio	
+fj=:7d0.LT	Basique (saisissez la réponse)	Vocabulaire italien	réussir	riuscire	
+Dy(@%`0~4W	Basique (saisissez la réponse)	Vocabulaire italien	Est-ce que ce sont des livres?	Questi sono libri?	
+qPzWCWucjU	Basique (saisissez la réponse)	Vocabulaire italien	Non, ce ne sont pas des livres, mais des clés.	No, non sono libri, ma chiavi.	
+gNKO2|Qz/u	Basique (saisissez la réponse)	Vocabulaire italien	Qu'est-ce que c'est?	Che cosa è?	
+v/($hC!dtg	Basique (saisissez la réponse)	Vocabulaire italien	Qu'est-ce que c'est? (pluriel)	Che cosa sono?	
+D>R0vc;m`}	Basique (saisissez la réponse)	Vocabulaire italien	C'est la fleur.	è il fiore.	
+n?R,ew$)){	Basique (saisissez la réponse)	Vocabulaire italien	Ce sont les clés.	Sono le chiavi.	
+t2yqO.fy`b	Basique (saisissez la réponse)	Vocabulaire italien	un cahier	un quaderno	
+L20uHqkb9b	Basique (saisissez la réponse)	Vocabulaire italien	un crayon à papier	una matita	
+Ayl1?<cd%k	Basique (saisissez la réponse)	Vocabulaire italien	Cette chose (près)	Questo qui	
+I$i:}+/UXO	Basique (saisissez la réponse)	Vocabulaire italien	Cette chose (loin)	Questo li	
+y|j7U|5M=^	Basique (saisissez la réponse)	Vocabulaire italien	Cette maison est loin	Quella casa è lontana	
+gAe;lt%{F6	Basique (saisissez la réponse)	Vocabulaire italien	Cette maison est proche	Questa casa è vicina	
+DHj9aI=ndA	Basique (saisissez la réponse)	Vocabulaire italien	Qui est-ce ? (singulier)	Chi è?	
+DtgN[4tugx	Basique (saisissez la réponse)	Vocabulaire italien	Qui sont-ils?&nbsp;	Chi sono?	
+B{K^!4d*CZ	Basique (saisissez la réponse)	Vocabulaire italien	Vous (singulier politesse)	Lei	
+B76H-+gXkC	Basique (saisissez la réponse)	Vocabulaire italien	A qui appartient ce stylo?&nbsp;	Di chi è questa penna?	
+"hK*t8Bk#R."	Basique (saisissez la réponse)	Vocabulaire italien	C'est la vôtre Monsieur ? (feminin, politesse)	è Sua, signore?	
+nOaL52-Pnu	Basique (saisissez la réponse)	Vocabulaire italien	Ce sont les vôtres (masculin), Monsieur?	Sono Suoi, signore?	
+v?M}A,PdKB	Basique (saisissez la réponse)	Vocabulaire italien	Ce sont les vôtres (féminin), Monsieur?	Sono Sue signore?	
+q8>/O.0`@*	Basique (saisissez la réponse)	Vocabulaire italien	Est-ce que tes livres sont bien ceux là?	I tuoi libri sono questi?	
+xFJ$O<S{,<	Basique (saisissez la réponse)	Vocabulaire italien	Ton stylo est celui-là?	La tua penna è questa?	
+q$Vbs(O6bu	Basique (saisissez la réponse)	Vocabulaire italien	une armoire	un armadio	
+h5`4>KZ^fL	Basique (saisissez la réponse)	Vocabulaire italien	une lampe	una lampada	
+BOD7}CpL-~	Basique (saisissez la réponse)	Vocabulaire italien	une porte	una porta	
+i$pUnE{:R~	Basique (saisissez la réponse)	Vocabulaire italien	une fenêtre	una finestra	
+G7RJfCzb1=	Basique (saisissez la réponse)	Vocabulaire italien	une chaise	una sedia	
+O)qBy:`]Hu	Basique (saisissez la réponse)	Vocabulaire italien	des bancs	i banchi	
+zn?3HDLkOW	Basique (saisissez la réponse)	Vocabulaire italien	beaucoup d'étudiants	molti studenti	
+KsME,iz]k?	Basique (saisissez la réponse)	Vocabulaire italien	peu d'étudiants	pochi studenti	
+K|@R2Ud,W0	Basique (saisissez la réponse)	Vocabulaire italien	D'où venez-vous ? (politesse)	Di dove è?	
+okuc+_m~vd	Basique (saisissez la réponse)	Vocabulaire italien	allemand	tedesco	
+q{-m{+pRJa	Basique (saisissez la réponse)	Vocabulaire italien	étranger	straniero	
+rCfS405V}5	Basique (saisissez la réponse)	Vocabulaire italien	Cologne	Colonia	
+Ol-wm8!^/N	Basique (saisissez la réponse)	Vocabulaire italien	un étudiant	uno studente	
+wk|HofH|OU	Basique (saisissez la réponse)	Vocabulaire italien	une étudiante	una studentessa	
+GNxqWT6BgU	Basique (saisissez la réponse)	Vocabulaire italien	D'où venez-vous ? (pluriel)	Di dove sono?	
+KVJZS-s~(c	Basique (saisissez la réponse)	Vocabulaire italien	un suisse	uno svizzero	
+lIg%HCHhD0	Basique (saisissez la réponse)	Vocabulaire italien	une française	una francesa	
+zI,o|]ZQb4	Basique (saisissez la réponse)	Vocabulaire italien	aussi&nbsp;	anche	
+hxh@rTbyat	Basique (saisissez la réponse)	Vocabulaire italien	Les espagnols ne sont pas beaucoup	Gli spagnoli non sono molti	
+kaBCYa13F/	Basique (saisissez la réponse)	Vocabulaire italien	néerlandais	olandese	
+OXP&KmW`Y*	Basique (saisissez la réponse)	Vocabulaire italien	un + (sv, sp, st, z)	uno	
+CA]Vc<8r*|	Basique (saisissez la réponse)	Vocabulaire italien	le + (sv, sp, st, z)	lo	
+y(}PpygO5r	Basique (saisissez la réponse)	Vocabulaire italien	le (général)	il	
+"D#ZAm35UVr"	Basique (saisissez la réponse)	Vocabulaire italien	noir	nero	
+sm^a3]0F2S	Basique (saisissez la réponse)	Vocabulaire italien	vieux	vecchio	
+EwZtPZHP$F	Basique (saisissez la réponse)	Vocabulaire italien	neuf	nuovo	
+OUZ|kh3nRr	Basique (saisissez la réponse)	Vocabulaire italien	savoir	conoscere	
+Ar,`j*-Ee&	Basique (saisissez la réponse)	Vocabulaire italien	le week-end	il fine settimana	
+up5evB8Ydq	Basique (saisissez la réponse)	Vocabulaire italien	quotidien	quotidiano	
+l!Yv?8h1;O	Basique (saisissez la réponse)	Vocabulaire italien	Pendant	Durante	
+F8v54ylNIt	Basique (saisissez la réponse)	Vocabulaire italien	Pendant la semaine	Durante la settimana	
+QFKBFP$:W]	Basique (saisissez la réponse)	Vocabulaire italien	la remise	il condono	
+h9/jdyQb_.	Basique (saisissez la réponse)	Vocabulaire italien	la suite	il seguito	
+Cn2fq~rHQ8	Basique (saisissez la réponse)	Vocabulaire italien	la source	la fonte	
+j7F8WlJ<pL	Basique (saisissez la réponse)	Vocabulaire italien	la minute	il minuto	
+wStTr51%M	Basique (saisissez la réponse)	Vocabulaire italien	être en retard	"<table><tbody><tr><td><div>
+</div>
+</td>
+<td>
+<div>
+essere in ritardo</div></td></tr></tbody></table>"	
+FQsefS3Lcc	Basique (saisissez la réponse)	Vocabulaire italien	plusieurs fois	più volte	
+DfMvzsF`-v	Basique (saisissez la réponse)	Vocabulaire italien	à chaque fois	ogni volta	
+ICxrtN!_D)	Basique (saisissez la réponse)	Vocabulaire italien	toujours	sempre	
+O.VTn*s}o4	Basique (saisissez la réponse)	Vocabulaire italien	le développement	lo sviluppo	
+"M#/DOJF35q"	Basique (saisissez la réponse)	Vocabulaire italien	un bouquet	un mazzo	
+B?khImf6r<	Basique (saisissez la réponse)	Vocabulaire italien	pleuvoir	pioggiare	
+g=}xb:&rPT	Basique (saisissez la réponse)	Vocabulaire italien	une branche	un ramo	
+r|XCmzu@^[	Basique (saisissez la réponse)	Vocabulaire italien	à demain	a domani	
+k[X6<0EY<t	Basique (saisissez la réponse)	Vocabulaire italien	vouloir	volere	
+zYa_b*Y3()	Basique (saisissez la réponse)	Vocabulaire italien	vérifier	verificare	
+w>hbdL^RQc	Basique (saisissez la réponse)	Vocabulaire italien	à tes souhaits	salute	
+h6m[xJgVR2	Basique (saisissez la réponse)	Vocabulaire italien	aujourd'hui	oggi	
+PC(MvBD@-{	Basique (saisissez la réponse)	Vocabulaire italien	peut-être	forse	
+I^A*DHMDUJ	Basique (saisissez la réponse)	Vocabulaire italien	un bâtiment	un edificio	
+C=6^7e{LFt	Basique (saisissez la réponse)	Vocabulaire italien	la rivière	il fiume	
+s4!ZhhoK~o	Basique (saisissez la réponse)	Vocabulaire italien	le nuage	la nuvola	
+o8@yBLjUD]	Basique (saisissez la réponse)	Vocabulaire italien	à emporter	da portare via	
+m1Jlp>HnDr	Basique (saisissez la réponse)	Vocabulaire italien	la plupart du temps	la maggior parte del tempo	
+Izk4+l6?8`	Basique (saisissez la réponse)	Vocabulaire italien	Excuse-moi	Scusa	
+l+hUX.n~=,	Basique (saisissez la réponse)	Vocabulaire italien	Excusez-moi	Scusi	
+"C(z^#ql+&2"	Basique (saisissez la réponse)	Vocabulaire italien	une tranche	un trancio	
+"Lz1nx#ltp`"	Basique (saisissez la réponse)	Vocabulaire italien	se tromper	sbagliarsi	
+E`BS(pr,Ie	Basique (saisissez la réponse)	Vocabulaire italien	mauvais	cattivo	
+B4,MObcrgE	Basique (saisissez la réponse)	Vocabulaire italien	attendre	aspettare	
+Dj@e_wX:PI	Basique (saisissez la réponse)	Vocabulaire italien	aider	aiutare	
+elW$,s>h1%	Basique (saisissez la réponse)	Vocabulaire italien	refroidir	raffredare	
+r:wEEO[A%4	Basique (saisissez la réponse)	Vocabulaire italien	je suis, tu es, il est	io sono, tu sei, lui è	
+B+<6)R/v}i	Basique (saisissez la réponse)	Vocabulaire italien	nous sommes, vous êtes, ils sont	noi siamo, voi siete, loro sono	
+bS))r0Nmw_	Basique (saisissez la réponse)	Vocabulaire italien	j'ai, tu as, il a	io ho, tu hai, lui ha	
+nv7d4]A!nH	Basique (saisissez la réponse)	Vocabulaire italien	nous avons, vous avez, ils ont	abbiamo, avete, hanno	
+Ih!2F;(@Bw	Basique (saisissez la réponse)	Vocabulaire italien	j'avais, tu avais, il avait	io avevo, tu avevi, lui aveva	
+kp8wE?0R2@	Basique (saisissez la réponse)	Vocabulaire italien	nous avions, vous aviez, ils avaient	avevamo, avevate, avevano	
+m,MZo@!-eO	Basique (saisissez la réponse)	Vocabulaire italien	j'ai eu	io ho avuto	
+H2MXv5J*$+	Basique (saisissez la réponse)	Vocabulaire italien	fatigué	stanco	
+ld`<)[z~Cf	Basique (saisissez la réponse)	Vocabulaire italien	souvent	spesso	
+rB1b~-Vuod	Basique (saisissez la réponse)	Vocabulaire italien	Mario regarde toujours la télévision	Mario guarda sempre la televisione	
+y~2&8Y&O~7	Basique (saisissez la réponse)	Vocabulaire italien	Non, je ne regarde jamais la télévision	No, non guardo mai la televisione	
+lYs~HPF_Q/	Basique (saisissez la réponse)	Vocabulaire italien	Oui, nous regardons la télévision en mangeant	Si, guardiamo la televisione mentre mangiamo	
+"ie#xs=qfJE"	Basique (saisissez la réponse)	Vocabulaire italien	Quel cours suit-il à l'université ?	Quale corso segue all'universita ?	
+GTfsypEuK4	Basique (saisissez la réponse)	Vocabulaire italien	Que fait-il lorsqu'il finit la lesson ?	Che cosa fa quando finisce la lezione?	
+"bQ#VSUA>-g"	Basique (saisissez la réponse)	Vocabulaire italien	Tous les magasins ouvrent à 9h	Tutti i negozi aprono alle nove	
+MALj|b&j;G	Basique (saisissez la réponse)	Vocabulaire italien	Nous ouvrons la fenêtre pour voir les gens qui passent.	Apriamo la finestra per vedere la gente che passa	
+K)/1C@hy/7	Basique (saisissez la réponse)	Vocabulaire italien	Mario finit d'étudier cette année?	Mario finisce di studiare quest'anno?	
+LW2twuiD;,	Basique (saisissez la réponse)	Vocabulaire italien	Non, il termine dans deux ans.	No, lui finisce fra due anni.	
+rfWd|u;SQu	Basique (saisissez la réponse)	Vocabulaire italien	à 6 heures.	Alle sei.	
+E8YsZT>(?L	Basique (saisissez la réponse)	Vocabulaire italien	Charles, a quelle heure arrête-tu d'étudier aujourd'hui?	Carlo, a che ora finisci di studiare oggi?	
+x&|&O&}<cx	Basique (saisissez la réponse)	Vocabulaire italien	l'adresse	l'indirizzo	
+me7(H:UUe8	Basique (saisissez la réponse)	Vocabulaire italien	se souvenir	ricordare	
+oYT%t3|WV|	Basique (saisissez la réponse)	Vocabulaire italien	acheter	comprare	
+Kt>DnuP%7m	Basique (saisissez la réponse)	Vocabulaire italien	voyager	viaggiare	
+"k|N3ceqli#"	Basique (saisissez la réponse)	Vocabulaire italien	demander	chiedere	
+t!w1rm}kx;	Basique (saisissez la réponse)	Vocabulaire italien	lire	leggere	
+tzlb7f}i[i	Basique (saisissez la réponse)	Vocabulaire italien	Nous comprenons bien si vous parlez lentement	Noi capiamo bene se parlate lentamente	
+qJofr~ylAe	Basique (saisissez la réponse)	Vocabulaire italien	préférer	preferire	
+IZ8VcO6$$G	Basique (saisissez la réponse)	Vocabulaire italien	Tu préfères un thé ou un autre café ?	Preferisci un tè o un altro caffè?	
+"A%@g#o!xuv"	Basique (saisissez la réponse)	Vocabulaire italien	vivre	vivere	
+g{FSWXrLkv	Basique (saisissez la réponse)	Vocabulaire italien	je vis, tu vis, il vit	io vivo, tu vivi, lui vive	
+NYO0%{CPD/	Basique (saisissez la réponse)	Vocabulaire italien	ouvrir	aprire	
+AKV64[kLw7	Basique (saisissez la réponse)	Vocabulaire italien	j'ouvre, tu ouvres, il ouvre	io apro, tu apri, lui apre	
+mEfDEuJD?I	Basique (saisissez la réponse)	Vocabulaire italien	finir	finire	
+"xOz6-#;7E]"	Basique (saisissez la réponse)	Vocabulaire italien	je finis, tu finis, il finit	io finisco, tu finisci, lui finisce	
+"v=Yi<#WGWS"	Basique (saisissez la réponse)	Vocabulaire italien	nous finissons, vous finissez, ils finissent	finiamo, finite, finiscono	
+xE!{nH,:ix	Basique (saisissez la réponse)	Vocabulaire italien	nous ouvrons, vous ouvrez, ils ouvrent	apriamo, aprite, aprono	
+nt6D9r=5J3	Basique (saisissez la réponse)	Vocabulaire italien	payer	pagare	
+d+M@Q]tWf;	Basique (saisissez la réponse)	Vocabulaire italien	chercher	cercare	
+kQnTDE|a->	Basique (saisissez la réponse)	Vocabulaire italien	je paye, tu payes, il paye	pago, paghi, paga	
+yBSpAt3/nv	Basique (saisissez la réponse)	Vocabulaire italien	nous payons, vous payez, ils payent	pagiamo, pagate, pagano	
+AoX+M%IGc4	Basique (saisissez la réponse)	Vocabulaire italien	je cherche, tu cherches, il cherche	cerco, cerchi, cerca	
+fWYHhl~NW&	Basique (saisissez la réponse)	Vocabulaire italien	nous cherchons, vous cherchez, ils cherchent	cerchiamo, cercate, cercano	
+"wz0#y`d4-Y"	Basique (saisissez la réponse)	Vocabulaire italien	ça va pas mal	Non c'è male	
+uS[n)+>7@o	Basique (saisissez la réponse)	Vocabulaire italien	Bonne chance	Buona fortuna	
+gLZKBN59-{	Basique (saisissez la réponse)	Vocabulaire italien	Dans deux jours, je dois faire un examen	Fra due giorni devo dare un esame	
+"F=M1{<e#~O"	Basique (saisissez la réponse)	Vocabulaire italien	nous allons, vous allez, ils vont bien	stiamo, state, stanno bene	
+"k#Lp3GjuUT"	Basique (saisissez la réponse)	Vocabulaire italien	Quel examen fais-tu ?	Che esame dai?	
+N=~7wfMJ,f	Basique (saisissez la réponse)	Vocabulaire italien	je fais, tu fais, il fait l'examen	do, dai, dà l'esame	
+Hi$|?gK{M1	Basique (saisissez la réponse)	Vocabulaire italien	nous faisons, vous faites, ils font l'examen	diamo, date, danno l'esame	
+Mc{%;B>,%N	Basique (saisissez la réponse)	Vocabulaire italien	ce soir	stasera	
+mk*a<AdOF+	Basique (saisissez la réponse)	Vocabulaire italien	physique	fisica	
+CbT,fTgSX4	Basique (saisissez la réponse)	Vocabulaire italien	Aujourd'hui, Louis et Peter passent l'examen et ils ont très peur.	Oggi Louis e Peter danno l'esame ed hanno tanta paura.	
+M6nlmSv%-u	Basique (saisissez la réponse)	Vocabulaire italien	avoir peur	avere paura	
+NpgC:IOS?0	Basique (saisissez la réponse)	Vocabulaire italien	la semaine prochaine	la settimana prossima	
+Dnac%T+`>^	Basique (saisissez la réponse)	Vocabulaire italien	au lieu de/mais	invece	
+x{aBgp{aqX	Basique (saisissez la réponse)	Vocabulaire italien	mathématiques	matematica	
+GZ;v1QFQvc	Basique (saisissez la réponse)	Vocabulaire italien	biologie	biologia	
+M8+vMl!9pq	Basique (saisissez la réponse)	Vocabulaire italien	j'ai mal aux dents	Ho mal di denti	
+y1B8Zz%(.h	Basique (saisissez la réponse)	Vocabulaire italien	je traduis, tu traduis, il traduit	traduco, traduci, traduce	
+wp)8a2}Ny|	Basique (saisissez la réponse)	Vocabulaire italien	traduire de l'anglais	traducere dall'inglese	
+f|0MXWy,9~	Basique (saisissez la réponse)	Vocabulaire italien	nous traduisons, vous traduisez, ils traduisent	traduciamo, traducete, traducono	
+yGhVJW3<^t	Basique (saisissez la réponse)	Vocabulaire italien	au revoir (courtoisie)	arrivederla	
+bd;Cq|&~`<	Basique (saisissez la réponse)	Vocabulaire italien	j'ai mal à la tête	ho mal di testa	
+FQrb~u*gD{	Basique (saisissez la réponse)	Vocabulaire italien	j'en suis désolé	mi dispiace	
+b!1gB.mOZc	Basique (saisissez la réponse)	Vocabulaire italien	mal à la gorge	mal di gola	
+DY7FN5!)wj	Basique (saisissez la réponse)	Vocabulaire italien	russe	russo	
+il&sYec$bK	Basique (saisissez la réponse)	Vocabulaire italien	directement	direttamente	
+bYJjAWa/DO	Basique (saisissez la réponse)	Vocabulaire italien	suffisant	abbastanza	
+tZQJ]~7qI@	Basique (saisissez la réponse)	Vocabulaire italien	nettoyer	riordinare	
+L05ABx,]HW	Basique (saisissez la réponse)	Vocabulaire italien	ranger	mettere via	
+P!8aMTz1V=	Basique (saisissez la réponse)	Vocabulaire italien	un arbre	un albero	
+O_|wt1tRe3	Basique (saisissez la réponse)	Vocabulaire italien	une colline	una collina	
+"u#b+D{i.z4"	Basique (saisissez la réponse)	Vocabulaire italien	suivre	seguire	
+PT(^,@%2%!	Basique (saisissez la réponse)	Vocabulaire italien	beaucoup de	tanto	
+JA<=jBrH+^	Basique (saisissez la réponse)	Vocabulaire italien	il me semble	mi sembra	
+C8QJ6om8iQ	Basique (saisissez la réponse)	Vocabulaire italien	Malheureusement	purtroppo	
+Kn,uzO<}$/	Basique (saisissez la réponse)	Vocabulaire italien	Heureusement	Per fortuna	
+x4*u[.(g9=	Basique (saisissez la réponse)	Vocabulaire italien	marcher	camminare	
+sA7eqUJg/k	Basique (saisissez la réponse)	Vocabulaire italien	faire une randonnée	fare un'escursione	
+EFc-w~t!l;	Basique (saisissez la réponse)	Vocabulaire italien	une règle	un righello	
+MjU|kdtbE	Basique (saisissez la réponse)	Vocabulaire italien	Bon appétit	Buon pranzo	
+"t>8KL#5-hH"	Basique (saisissez la réponse)	Vocabulaire italien	incompétent	dilettante	
+qlXAlSq5lu	Basique (saisissez la réponse)	Vocabulaire italien	parfois	ogni tanto	
+sN0DCg7PXR	Basique (saisissez la réponse)	Vocabulaire italien	un plat pour cuisiner	una teglia	
+cKRcDIC!I`	Basique (saisissez la réponse)	Vocabulaire italien	rester au pouvoir	rimanere in carica	
+PL!-2]/x?$	Basique (saisissez la réponse)	Vocabulaire italien	pour l'instant	per adesso	
+wL0OVybqj.	Basique (saisissez la réponse)	Vocabulaire italien	maintenant	adesso	
+JRtUb2unJ&	Basique (saisissez la réponse)	Vocabulaire italien	Au contraire	Anzi	
+oH<gN75Z5x	Basique (saisissez la réponse)	Vocabulaire italien	outrepasser	superare	
+Q^?Y_9FFR8	Basique (saisissez la réponse)	Vocabulaire italien	épuisé	sfinito	
+d[UPbGq~&C	Basique (saisissez la réponse)	Vocabulaire italien	au sommet	in cima	
+"P#6B{/}F.a"	Basique (saisissez la réponse)	Vocabulaire italien	sauf	tranne	
+"q#qkk>tZCQ"	Basique (saisissez la réponse)	Vocabulaire italien	léger	leggero	
+D!-%sJyK]e	Basique (saisissez la réponse)	Vocabulaire italien	habituel	solito	
+6KwFQp_~T	Basique (saisissez la réponse)	Vocabulaire italien	le sommeil	il sonno	
+Q*Kli1Z}hz	Basique (saisissez la réponse)	Vocabulaire italien	probablement	probabilmente	
+H*T-ET]ZzC	Basique (saisissez la réponse)	Vocabulaire italien	un bruit	un rumore	
+eQ$LP>r,>c	Basique (saisissez la réponse)	Vocabulaire italien	un lieutenant	un tenente	
+PCqHRIYVKn	Basique (saisissez la réponse)	Vocabulaire italien	se réveiller	svegliare	
+Jost6U0u?T	Basique (saisissez la réponse)	Vocabulaire italien	rejoindre	raggiungere	
+o(>+c]Vn@	Basique (saisissez la réponse)	Vocabulaire italien	un miroir	uno specchio	
+lkKQwgONh!	Basique (saisissez la réponse)	Vocabulaire italien	bon marché	a buon mercato	
+gqffMw$710	Basique (saisissez la réponse)	Vocabulaire italien	Pour cette raison	percio	
+G9CudNOjCj	Basique (saisissez la réponse)	Vocabulaire italien	déjà	già	
+g}`j3S_7>3	Basique (saisissez la réponse)	Vocabulaire italien	enfin!	finalmente!	
+cHm77RB~,k	Basique (saisissez la réponse)	Vocabulaire italien	entre	tra	
+p+TBN)6Q;_	Basique (saisissez la réponse)	Vocabulaire italien	entre autres	inoltre	
+x9-rv;3p;I	Basique (saisissez la réponse)	Vocabulaire italien	fermer	chiudere	
+BK4G:E6vFv	Basique (saisissez la réponse)	Vocabulaire italien	éteindre	spegnere	
+E:_|Ihf66(	Basique (saisissez la réponse)	Vocabulaire italien	utile	utile	
+pC=4DNH=H(	Basique (saisissez la réponse)	Vocabulaire italien	inutile	inutile	
+g%2B06`[$w	Basique (saisissez la réponse)	Vocabulaire italien	joindre l'utile à l'agréable	unire l'utile al dilettevole	
+loIHn~={|e	Basique (saisissez la réponse)	Vocabulaire italien	conjugaison	coniugazione	
+O[`>GSLz&]	Basique (saisissez la réponse)	Vocabulaire italien	je prends, tu prends, il prend	prendo, prendi, prende	
+Fc.,L?g2H~	Basique (saisissez la réponse)	Vocabulaire italien	nous prenons, vous prenez, ils prennent	prendiamo, prendete, prendono	
+On;0V:dOIj	Basique (saisissez la réponse)	Vocabulaire italien	j'ai pris	ho preso	
+F{Cm4H<3S9	Basique (saisissez la réponse)	Vocabulaire italien	une plaisanterie	uno scherzo	
+cR2yCOLo8{	Basique (saisissez la réponse)	Vocabulaire italien	tout de suite	subito	
+qR.WDsXU=R	Basique (saisissez la réponse)	Vocabulaire italien	un instant!	un attimo!	
+i%^TL1X<xx	Basique (saisissez la réponse)	Vocabulaire italien	Le matin suivant	La mattina seguente	
+f<mLo~xKyl	Basique (saisissez la réponse)	Vocabulaire italien	chargé	carico	
+Gf;v:rWO&B	Basique (saisissez la réponse)	Vocabulaire italien	cela	cio	
+Pw!Pcl]I0E	Basique (saisissez la réponse)	Vocabulaire italien	un métier	un mestiere	
+DojhRw3i:i	Basique (saisissez la réponse)	Vocabulaire italien	si peu	tanto poco	
+q>tTwZYZ`Z	Basique (saisissez la réponse)	Vocabulaire italien	un magicien, une magicienne, des magiciens	un mago, una maga, i maghi	
+L=_kmU>@vi	Basique (saisissez la réponse)	Vocabulaire italien	bien que	benché	
+lxw>LUEaf=	Basique (saisissez la réponse)	Vocabulaire italien	Egypte	Egitto	
+FLL};T9ljV	Basique (saisissez la réponse)	Vocabulaire italien	bleu	azurro	
+lHh2oqQxP?	Basique (saisissez la réponse)	Vocabulaire italien	jaune	giallo	
+"yY#9I79K<O"	Basique (saisissez la réponse)	Vocabulaire italien	gris	grigio	
+Pg]14gX;_2	Basique (saisissez la réponse)	Vocabulaire italien	blanc	bianco	
+JbqhA&=&G^	Basique (saisissez la réponse)	Vocabulaire italien	orange	arancione	
+H`vA7v&D.j	Basique (saisissez la réponse)	Vocabulaire italien	violet	viola	
+rpA_&~7lD6	Basique (saisissez la réponse)	Vocabulaire italien	marron	marrone	
+J;q%CVXm]S	Basique (saisissez la réponse)	Vocabulaire italien	bleu (court)	blu	
+q.^Ii?!J}7	Basique (saisissez la réponse)	Vocabulaire italien	derrière	dietro	
+"Cim#glc!Gw"	Basique (saisissez la réponse)	Vocabulaire italien	devant	davanti	
+Mx0,n0_cc[	Basique (saisissez la réponse)	Vocabulaire italien	sur	sopra	
+nq)YKB.MEH	Basique (saisissez la réponse)	Vocabulaire italien	sous	sotto	
+yoih@]Aet6	Basique (saisissez la réponse)	Vocabulaire italien	dans	dentro	
+"iu}A#9MHX0"	Basique (saisissez la réponse)	Vocabulaire italien	autour de	intorno da	
+Ope&!,/tr-	Basique (saisissez la réponse)	Vocabulaire italien	à droite	a destra di	
+]Yodx0I/,	Basique (saisissez la réponse)	Vocabulaire italien	à gauche	a sinistra di	
+fzq`^GBCV5	Basique (saisissez la réponse)	Vocabulaire italien	une entreprise	un' impresa	
+c:3}J5^<bF	Basique (saisissez la réponse)	Vocabulaire italien	l'âge	l'età	
+h3q;z+/$04	Basique (saisissez la réponse)	Vocabulaire italien	l'âge de pierre	l'età della pietra	
+B%p<4GoRJ{	Basique (saisissez la réponse)	Vocabulaire italien	petit-fils/neveu	un nipote	
+"o,!Dtp#85S"	Basique (saisissez la réponse)	Vocabulaire italien	de plus	inoltre	
+Cg},a_v/{]	Basique (saisissez la réponse)	Vocabulaire italien	puisque	poiche	
+J2vtib61bU	Basique (saisissez la réponse)	Vocabulaire italien	et pourtant	eppure	
+nXw?s<?*Ln	Basique (saisissez la réponse)	Vocabulaire italien	élever	allevare	
+l;hf^jY5wj	Basique (saisissez la réponse)	Vocabulaire italien	une cape	una mantella	
+z*D~OaUQ5W	Basique (saisissez la réponse)	Vocabulaire italien	grandir	crescere	
+G,l]GH;qR.	Basique (saisissez la réponse)	Vocabulaire italien	quelque	qualche	
+lpuNebX7yD	Basique (saisissez la réponse)	Vocabulaire italien	rien	niente	
+jsqdA{t-m8	Basique (saisissez la réponse)	Vocabulaire italien	aucun	nessuno	
+c%_(rP(jct	Basique (saisissez la réponse)	Vocabulaire italien	quelque chose	qualche cosa	
+AoCB~5-i=C	Basique (saisissez la réponse)	Vocabulaire italien	personne	nessuno	
+bh.CB,*M2v	Basique (saisissez la réponse)	Vocabulaire italien	avant	prima di	
+b[;n7S}kz1	Basique (saisissez la réponse)	Vocabulaire italien	en dehors	fuori da	
+d?**D/W-if	Basique (saisissez la réponse)	Vocabulaire italien	en haut	in alto	
+gw)/AD5:7`	Basique (saisissez la réponse)	Vocabulaire italien	jusqu'à&nbsp;	fino a	
+M=/1j<1=yA	Basique (saisissez la réponse)	Vocabulaire italien	vers	verso	
+sHN$6g]v=,	Basique (saisissez la réponse)	Vocabulaire italien	d'abord	prima	
+"Qg#-j)-r|o"	Basique (saisissez la réponse)	Vocabulaire italien	donc	quindi	
+(b%NVraAI	Basique (saisissez la réponse)	Vocabulaire italien	combien de temps?	quanto tempo?	
+bHfV-L/JPD	Basique (saisissez la réponse)	Vocabulaire italien	combien?	quanto?	
+Dp4w,X>:1M	Basique (saisissez la réponse)	Vocabulaire italien	Quelle quantité?	Che quantita?	
+Q@B9J/q|k?	Basique (saisissez la réponse)	Vocabulaire italien	Quand?	Quando?	
+AW)$}5.Vr0	Basique (saisissez la réponse)	Vocabulaire italien	hier	ieri	
+y4aW3iTp03	Basique (saisissez la réponse)	Vocabulaire italien	plus tard	più tardi	
+Ph$4-cU/]N	Basique (saisissez la réponse)	Vocabulaire italien	plus tôt	prima	
+d,<_4J%h}0	Basique (saisissez la réponse)	Vocabulaire italien	obtenir	ottenere	
+JRYf+gc/KP	Basique (saisissez la réponse)	Vocabulaire italien	affamé	affamato	
+s0-RdA}G46	Basique (saisissez la réponse)	Vocabulaire italien	une fois	una volta	
+w4$)hjcJI*	Basique (saisissez la réponse)	Vocabulaire italien	une femme	una donna	
+Lf}Pzaau^2	Basique (saisissez la réponse)	Vocabulaire italien	une main	una mano	
+m?CD]`^[s;	Basique (saisissez la réponse)	Vocabulaire italien	un oeil	un occhio	
+jke*{$lLnY	Basique (saisissez la réponse)	Vocabulaire italien	une heure	un' ora	
+QHkp49wQ)C	Basique (saisissez la réponse)	Vocabulaire italien	une rue	una strada	
+LUiwiNxhWU	Basique (saisissez la réponse)	Vocabulaire italien	un air	un' aria	
+eNvIZbR~]x	Basique (saisissez la réponse)	Vocabulaire italien	une raison	una ragione	
+koCw;0A?(y	Basique (saisissez la réponse)	Vocabulaire italien	Aucun	alcuno	
+qx!JnfCbqq	Basique (saisissez la réponse)	Vocabulaire italien	jeune	giovane	
+k8eLi0UQeu	Basique (saisissez la réponse)	Vocabulaire italien	plein	pieno	
+ebmqiZNEbb	Basique (saisissez la réponse)	Vocabulaire italien	devenir	diventare	
+"J.F@2hK#o&"	Basique (saisissez la réponse)	Vocabulaire italien	perdre	perdere	
+jW.Q%C){0B	Basique (saisissez la réponse)	Vocabulaire italien	ni	ne	
+Q7+>;dGH<(	Basique (saisissez la réponse)	Vocabulaire italien	ensuite	poi	
+F!qP%pbOK<	Basique (saisissez la réponse)	Vocabulaire italien	lundi	lunedi	
+r,bKHnI!qY	Basique (saisissez la réponse)	Vocabulaire italien	mardi	martedi	
+v9~C}0^DU0	Basique (saisissez la réponse)	Vocabulaire italien	mercredi	mercoledi	
+K3B@+e(7_B	Basique (saisissez la réponse)	Vocabulaire italien	jeudi	giovedi	
+f[]Wp?b/&*	Basique (saisissez la réponse)	Vocabulaire italien	vendredi	venerdi	
+guJU-P[Wz?	Basique (saisissez la réponse)	Vocabulaire italien	samedi	sabato	
+n)bPNa,=@}	Basique (saisissez la réponse)	Vocabulaire italien	dimanche	domenica	
+q094NY6jjX	Basique (saisissez la réponse)	Vocabulaire italien	Janvier	<b>Gennaio</b>	
+2PksKU0]F	Basique (saisissez la réponse)	Vocabulaire italien	Février	Febbraio	
+DR]7/t0xKq	Basique (saisissez la réponse)	Vocabulaire italien	Mars	Marzo	
+D:x3HX?FE_	Basique (saisissez la réponse)	Vocabulaire italien	Avril	Aprile	
+v3:jTJfIam	Basique (saisissez la réponse)	Vocabulaire italien	Mai	Maggio	
+lRM=k0>7Pk	Basique (saisissez la réponse)	Vocabulaire italien	Juin	Giugno	
+K[X2,xr2b_	Basique (saisissez la réponse)	Vocabulaire italien	Juillet	Luglio	
+"pp*M.&#XgH"	Basique (saisissez la réponse)	Vocabulaire italien	Août&nbsp;	Agosto	
+Ek`|4WA1Fk	Basique (saisissez la réponse)	Vocabulaire italien	Septembre	Settembre	
+jsq0:rVE)J	Basique (saisissez la réponse)	Vocabulaire italien	Octobre	Ottobre	
+yyw/Q:e)u}	Basique (saisissez la réponse)	Vocabulaire italien	Novembre	Novembre	
+C>9*X*aM}t	Basique (saisissez la réponse)	Vocabulaire italien	Décembre	Dicembre	
+u<a:0fM]|4	Basique (saisissez la réponse)	Vocabulaire italien	non plus	neanche	
+s)))Jff>|o	Basique (saisissez la réponse)	Vocabulaire italien	l'argent	il denaro	
+Ha3PLbdJI^	Basique (saisissez la réponse)	Vocabulaire italien	il a fait tout son possible	ha fatto tutto il possibile	
+fgA?r?`Kg*	Basique (saisissez la réponse)	Vocabulaire italien	enseigner	insegnare	
+rhK?aB=M&2	Basique (saisissez la réponse)	Vocabulaire italien	un bon à rien	un buono a nulla	
+"s!L.#uSl:["	Basique (saisissez la réponse)	Vocabulaire italien	gagner sa vie	guadagnarsi da vivere	
+"hU|yK#:<YB"	Basique (saisissez la réponse)	Vocabulaire italien	être prêt à faire qqc	essere pronto a fare qc	
+krbo+-9F-r	Basique (saisissez la réponse)	Vocabulaire italien	seulement	soltanto	
+Cojg:$HKxA	Basique (saisissez la réponse)	Vocabulaire italien	un bourgeois	un borghese	
+l]L$3dvOZ=	Basique (saisissez la réponse)	Vocabulaire italien	une offre d'emploi	un offerta di lavoro	
+"X$#Uhu.%Z"	Basique	Vocabulaire italien	Giacché	puisque	
+yj5,MDH>{;	Basique (saisissez la réponse)	Vocabulaire italien	douter	dubitare	
+v(mAg`9UUm	Basique (saisissez la réponse)	Vocabulaire italien	le diner	la cena	
+bOWGa4`B)Y	Basique (saisissez la réponse)	Vocabulaire italien	le repas	il pasto	
+oXWoXJ)[H/	Basique (saisissez la réponse)	Vocabulaire italien	choisir	scegliere	
+AA}fKNo+g^	Basique (saisissez la réponse)	Vocabulaire italien	un choix	una scelta	
+"Bqo^&[#J;;"	Basique (saisissez la réponse)	Vocabulaire italien	la viande	la carne	
+o/^Z:5=68e	Basique (saisissez la réponse)	Vocabulaire italien	partager	dividere	
+PB*+]A4kaG	Basique (saisissez la réponse)	Vocabulaire italien	végétarien	vegetariano	
+lC8(aLA&S,	Basique (saisissez la réponse)	Vocabulaire italien	lui-même	esso stesso	
+wu26oCaH)1	Basique (saisissez la réponse)	Vocabulaire italien	aussi	pure	
+H~:rDtZ5u8	Basique (saisissez la réponse)	Vocabulaire italien	encourager qqn à faire qqc	esortare qn a (fare) qc	
+qB20aeY^fF	Basique (saisissez la réponse)	Vocabulaire italien	j'apprends, tu apprends, il apprend	imparo, impari, impara	
+vl@>;bM80b	Basique (saisissez la réponse)	Vocabulaire italien	nous apprenons, vous apprenez, ils apprennent	impariamo, imparate, imparano	
+nuyL$BA?_u	Basique (saisissez la réponse)	Vocabulaire italien	j'ai appris	ho imparato	
+CyM*]:m[X`	Basique (saisissez la réponse)	Vocabulaire italien	j'apprenais, tu apprenais, il apprenait	imparavo, imparavi, imparava	
+y?@:RykL=D	Basique (saisissez la réponse)	Vocabulaire italien	nous apprenions, vous appreniez, ils apprenaient	imparavamo, imparavate, imparavano	
+o,r*6uwdXL	Basique (saisissez la réponse)	Vocabulaire italien	j'ai été	sono stato	
+xm9,X}yZ~j	Basique (saisissez la réponse)	Vocabulaire italien	j'étais, tu étais, il était	ero, eri, era	
+Cn8o186Ws-	Basique (saisissez la réponse)	Vocabulaire italien	nous étions, vous étiez, ils étaient	eravamo, eravate, erano	
+l}z?R^!GQN	Basique (saisissez la réponse)	Vocabulaire italien	je fus, tu fus, il fut	fui, fosti, fu	
+"kB#n=6_5;p"	Basique (saisissez la réponse)	Vocabulaire italien	nous fûmes, vous fûtes, ils furent	fummo, foste, furono	
+A1QmZxoHV*	Basique (saisissez la réponse)	Vocabulaire italien	je serai, tu seras, il sera	sarò, sarai, sara	
+cBnvYm&(-b	Basique (saisissez la réponse)	Vocabulaire italien	nous serons, vous serez, ils seront	saremo, sarete, saranno	
+f0JwtpFHp(	Basique (saisissez la réponse)	Vocabulaire italien	j'aurai, tu auras, il aura	avrò, avrai, avrà	
+"L#|WOeRkI("	Basique (saisissez la réponse)	Vocabulaire italien	nous aurons, vous aurez, ils auront	avremo, avrete, avranno	
+h:v{[G$U+~	Basique (saisissez la réponse)	Vocabulaire italien	j'aurais, tu aurais, il aurait (conditionnel)	avrei, avresti, avrebbe	
+xcX2W]`5dS	Basique (saisissez la réponse)	Vocabulaire italien	nous aurions, vous auriez, ils auraient	avremmo, avreste, avrebbero	
+E5yZD+79{u	Basique (saisissez la réponse)	Vocabulaire italien	je serais, tu serais, il serait	sarei, saresti, sarebbe	
+C0$WHUd$X-	Basique (saisissez la réponse)	Vocabulaire italien	nous serions, vous seriez, ils seraient	saremmo, sareste, sarebbero	
+eLzM9}mIa%	Basique (saisissez la réponse)	Vocabulaire italien	optimal	ottimale	
+Ha&;N{Q9wS	Basique (saisissez la réponse)	Vocabulaire italien	Quel est ton programme pour dimanche?	Che programmi hai per domenica?	
+D6;5pHE+9^	Basique (saisissez la réponse)	Vocabulaire italien	Je pense aller à la montagne	Penso di andare in montagna	
+"A=8mG#|`qC"	Basique (saisissez la réponse)	Vocabulaire italien	Y vas-tu seul ou avec quelques amis?&nbsp;	Vai da solo o con qualche amico?	
+f2?PF)2P/F	Basique (saisissez la réponse)	Vocabulaire italien	Pourquoi ne viendrais-tu pas avec nous?&nbsp;	Perché non vieni anche tu insieme a noi?	
+dc$0&K/a=P	Basique (saisissez la réponse)	Vocabulaire italien	Volontiers!	Volontieri!	
+vjA30*`Tv=	Basique (saisissez la réponse)	Vocabulaire italien	aller en voiture	andare in macchina	
+"o|F[9H]f#|"	Basique (saisissez la réponse)	Vocabulaire italien	la voiture de Gianni	la macchina di Gianni	
+"jty2vb#F1t"	Basique (saisissez la réponse)	Vocabulaire italien	à quelle heure pensez-vous partir? (vous)	A che ora pensate di partire?	
+v8cS8wYu_&	Basique (saisissez la réponse)	Vocabulaire italien	Entre 7h et 8h.	Fra le sette e le otto	
+wMQ8HaZ4?&	Basique (saisissez la réponse)	Vocabulaire italien	ça te va bien?	Ti va bene?	
+mTDho{n-!^	Basique (saisissez la réponse)	Vocabulaire italien	Oui, pour rmoi c'est bon	Si, per me va bene	
+uUsOO|TuEQ	Basique (saisissez la réponse)	Vocabulaire italien	skier	sciare	
+F}Z.~%T~zC	Basique (saisissez la réponse)	Vocabulaire italien	une autoroute	un' autostrada	
+o%&MWw1X2t	Basique (saisissez la réponse)	Vocabulaire italien	je viens, tu viens, il vient	vengo, vieni, viene	
+"jl#_i;wtGq"	Basique (saisissez la réponse)	Vocabulaire italien	nous venons, vous venez, ils viennent	veniamo, venite, vengono	
+"nV<)}.G#ZD"	Basique (saisissez la réponse)	Vocabulaire italien	la cantine	la mensa	
+oz~dO6~D&y	Basique (saisissez la réponse)	Vocabulaire italien	je dis, tu dis, il dit	dico, dici, dice	
+vhZ<5u~U%g	Basique (saisissez la réponse)	Vocabulaire italien	nous disons, vous dites, ils disent	diciamo, dite, dicono	
+vrTF$&m$!5	Basique (saisissez la réponse)	Vocabulaire italien	j'ai dit	ho detto	
+h6@pcQWfY]	Basique (saisissez la réponse)	Vocabulaire italien	je dirai, tu diras, il dira	dirò, dirai, dirà	
+MpFfKCPi+b	Basique (saisissez la réponse)	Vocabulaire italien	nous dirons, vous direz, ils diront	diremo, direte, diranno	
+hM>]f9GT+7	Basique (saisissez la réponse)	Vocabulaire italien	je fais, tu fais, il fait	faccio, fai, fa	
+LU1(t`-3.Z	Basique (saisissez la réponse)	Vocabulaire italien	nous faisons, vous faites, ils font	facciamo, fate, fanno	
+K{XD^`(~;]	Basique (saisissez la réponse)	Vocabulaire italien	j'ai fait	ho fatto	
+H1UXnmNU&e	Basique (saisissez la réponse)	Vocabulaire italien	je ferai, tu feras, il fera	farò, farai, farà	
+CJN*iKss=;	Basique (saisissez la réponse)	Vocabulaire italien	nous ferons, vous ferez, ils feront	faremo, farete, faranno	
+C~cl>JGWTW	Basique (saisissez la réponse)	Vocabulaire italien	Chaque jour, je vais à l'école en car	Ogni giorno vengo a scuola in autobus	
+t$_&%PU;T%	Basique (saisissez la réponse)	Vocabulaire italien	une promenade	una passeggiata	
+cOoazo26:7	Basique (saisissez la réponse)	Vocabulaire italien	Ce train vient de Milan?	Viene da Milano questo treno?	
+DHHSH8c<_)	Basique (saisissez la réponse)	Vocabulaire italien	Habituellement, Mr Dotti, vient au bureau à pied	Di solito il signor Dotti viene in ufficio a piedi	
+VCdRreI;i	Basique (saisissez la réponse)	Vocabulaire italien	Je vais à la montagne.	Vado in montagna.	
+s;oNWzuz:`	Basique (saisissez la réponse)	Vocabulaire italien	Claudia va en Angleterre.	Claudia va in Inghilterra	
+t&$DY5f>4M	Basique (saisissez la réponse)	Vocabulaire italien	Claudia va à la bibliothèque.	Claudia va in biblioteca.	
+eSJGk6HX2a	Basique (saisissez la réponse)	Vocabulaire italien	Claudia va dans le centre ville.	Claudia va in centro.	
+bi,Q1&L_C~	Basique (saisissez la réponse)	Vocabulaire italien	Claudia va à Londres.	Claudia va a Londra.	
+ti.2L28n5J	Basique (saisissez la réponse)	Vocabulaire italien	Claudia va chez Paolo.	Claudia va da Paolo.	
+sO_<@wEz?h	Basique (saisissez la réponse)	Vocabulaire italien	le midi	mezzogiorno	
+:OYc559]{	Basique (saisissez la réponse)	Vocabulaire italien	un avion de ligne	un aereo di linea	
+v(7?y42?HA	Basique (saisissez la réponse)	Vocabulaire italien	Cet avion arrive à Milan à midi	Questo aereo arriva a Milano a mezzogiorno	
+xWj/bs`Qj*	Basique (saisissez la réponse)	Vocabulaire italien	Quand rentrez-vous en Italie? (vous)	Quando ritornate in Italia?	
+"A}{MRF|##k"	Basique (saisissez la réponse)	Vocabulaire italien	revenir	ritornare	
+F1Qw9X$!o1	Basique (saisissez la réponse)	Vocabulaire italien	Paola habite à Florence, rue Tornabuoni	Paola abita a Firenze, in via Tornabuoni	
+jG`Tod.KCV	Basique (saisissez la réponse)	Vocabulaire italien	Claudia part de Zürich pour la montagne en avion	Claudia parte da Zurigo per la montagna in aereo	
+"cd#dEB=dR}"	Basique (saisissez la réponse)	Vocabulaire italien	jouer aux jeux vidéo	giocare ai videogiochi	
+Lg);PMS_1_	Basique (saisissez la réponse)	Vocabulaire italien	Je suis d'accord	Sono d'accordo	
+p&N!!_n@q!	Basique (saisissez la réponse)	Vocabulaire italien	Tu as raison!	Hai ragione!	
+hj6FqHeZzJ	Basique (saisissez la réponse)	Vocabulaire italien	un glouton	un ingordo	
+Rjnm{Efhhq	Basique (saisissez la réponse)	Vocabulaire italien	sécher	asciugare	
+"j{13B]ke7#"	Basique (saisissez la réponse)	Vocabulaire italien	tremper	bagnare	
+J-N+Lv9R{>	Basique (saisissez la réponse)	Vocabulaire italien	mouillé	bagnato	
+H4P-eWx{|y	Basique (saisissez la réponse)	Vocabulaire italien	presque	quasi	
+k]$cD@]&*y	Basique (saisissez la réponse)	Vocabulaire italien	la patience	la pazienza	
+nkGy~+_B3R	Basique (saisissez la réponse)	Vocabulaire italien	combien de temps	quanto tempo	
+PulMCxg?aR	Basique (saisissez la réponse)	Vocabulaire italien	prévoir	prevedere	
+Pq7b{tD4A!	Basique (saisissez la réponse)	Vocabulaire italien	sous le parapluie	sotto l'ombrello	
+l8^-!oF]2a	Basique (saisissez la réponse)	Vocabulaire italien	s'engager à faire qch	impegnarsi a fare qc	
+ba-`wY]5!C	Basique (saisissez la réponse)	Vocabulaire italien	offrir (à boire, a faire)	offrire	
+g|{{WQPgV5	Basique (saisissez la réponse)	Vocabulaire italien	offrir (cadeau)	regalare	
+Ab(8gQw~m)	Basique (saisissez la réponse)	Vocabulaire italien	déçu	deluso	
+"CGU>*l#7>k"	Basique (saisissez la réponse)	Vocabulaire italien	prêter (livre argent)	prestare	
+Ez>@v|yDXL	Basique (saisissez la réponse)	Vocabulaire italien	l'adresse email	l'indirizzo email	
+ujy-G3Sbpb	Basique (saisissez la réponse)	Vocabulaire italien	un endroit	un luogo	
+DM,_~eo49J	Basique (saisissez la réponse)	Vocabulaire italien	une limite (fig)	uno limite	
+vbT4?r(~c>	Basique (saisissez la réponse)	Vocabulaire italien	allumer	accendere	
+Mc!dx.[Y`3	Basique (saisissez la réponse)	Vocabulaire italien	partir à (ville, pays, endroit)	partire per	
+dqryRB>,L-	Basique (saisissez la réponse)	Vocabulaire italien	Laura retourne chez Carla	Laura torna da Carla	
+f%3AhtP;$$	Basique (saisissez la réponse)	Vocabulaire italien	Jerry part à New York à midi	Jerry parte per New York a mezzogiorno	
+hYgP8O*$_R	Basique (saisissez la réponse)	Vocabulaire italien	je suis parti	sono partito	
+O9|@6HsJ`w	Basique (saisissez la réponse)	Vocabulaire italien	je pars, tu pars, il part	parto, parti, parte	
+Bn?_1wrlL	Basique (saisissez la réponse)	Vocabulaire italien	nous partons, vous partez, ils partent	partiamo, partite, partono	
+I>Bd4hb)i,	Basique (saisissez la réponse)	Vocabulaire italien	partant	partando	
+dYAY`6nhi,	Basique (saisissez la réponse)	Vocabulaire italien	je partais, tu partais, il partait	partivo, partivi, partiva	
+v{cJm-_qPJ	Basique (saisissez la réponse)	Vocabulaire italien	nous partions, vous partiez, ils partaient	partivamo, partivate, partivano	
+t.a@hZkb%U	Basique (saisissez la réponse)	Vocabulaire italien	pouvoir	potere	
+GwNYtq1MLa	Basique (saisissez la réponse)	Vocabulaire italien	je peux, tu peux, il peut	posso, puoi, può	
+Et^J;aK8fe	Basique (saisissez la réponse)	Vocabulaire italien	nous pouvons, vous pouvez, ils peuvent	possiamo, potete, possono	
+"EQf^CtEp#r"	Basique (saisissez la réponse)	Vocabulaire italien	j'ai pu	ho potuto	
+RbK?:+y_y;	Basique (saisissez la réponse)	Vocabulaire italien	pouvant	potendo	
+nk&y4}4y%g	Basique (saisissez la réponse)	Vocabulaire italien	apprendre par coeur	imparare a memoria	
+qdxjJip:}g	Basique (saisissez la réponse)	Vocabulaire italien	une lettre	una lettera	
+O4rI.PdD[/	Basique (saisissez la réponse)	Vocabulaire italien	en face	di fronte	
+G>;G_LOy[C	Basique (saisissez la réponse)	Vocabulaire italien	Je commence à étudier d'ici peu	Comincio a studiare fra poco	
+rpM]k8)r6V	Basique (saisissez la réponse)	Vocabulaire italien	Si je bois trop de café, je n'arrive pas à dormir	Se bevo troppo caffè, non riesco a dormire	
+b:?<`GFMiX	Basique (saisissez la réponse)	Vocabulaire italien	je réussis, tu réussis, il réussit	riesco, riesci, riesce&nbsp;	
+r7VI6xI%<@	Basique (saisissez la réponse)	Vocabulaire italien	nous réussissons, vous réussissez, ils réussissent	riusciamo, riuscite, riescono	
+Q4Ty85R(.S	Basique (saisissez la réponse)	Vocabulaire italien	j'ai réussi	sono riuscito	
+f`^&Bf>-2e	Basique (saisissez la réponse)	Vocabulaire italien	La porte est fermée à clé	La porta è chiusa a chiave	
+bOtKvVw{](	Basique (saisissez la réponse)	Vocabulaire italien	Pise est entre Florence et Livourne	Pisa à tra Firense e Livorno	
+tS8V/-)hx-	Basique (saisissez la réponse)	Vocabulaire italien	cette voiture est de seconde main	questa macchina è di seconda mano.	
+sl/_^}q-DN	Basique (saisissez la réponse)	Vocabulaire italien	Je ne crois pas	Credo di no	
+C,vH}+]&r2	Basique (saisissez la réponse)	Vocabulaire italien	Où vas-tu avec cette pluie ?	Dove vai con questa pioggia?	
+LCS.IY^1FE	Basique (saisissez la réponse)	Vocabulaire italien	un rendez-vous avec qn	un apputamento con qn	
+nV-H!>oy=6	Basique (saisissez la réponse)	Vocabulaire italien	je crains que tu te trompes	temo che si sbagli	
+r}LhC{@i7:	Basique (saisissez la réponse)	Vocabulaire italien	par erreur	per sbaglio	
+p@a9iko:%:	Basique (saisissez la réponse)	Vocabulaire italien	se tromper (avec fare)	fare uno sbaglio	
+rx$:TeuO9_	Basique (saisissez la réponse)	Vocabulaire italien	une erreur	uno sbaglio	
+NYqUqe,J?n	Basique (saisissez la réponse)	Vocabulaire italien	l'obscurité / sombre	il buio	
+tS*N}_a5<Z	Basique (saisissez la réponse)	Vocabulaire italien	C'est un film à voir!	è un film da vedere!	
+zuB$&ORf+V	Basique (saisissez la réponse)	Vocabulaire italien	la chambre à coucher	la camera da letto&nbsp;	
+Lr&x-{PO/(	Basique (saisissez la réponse)	Vocabulaire italien	l'escalier	la scala	
+QMtbAif(@y	Basique (saisissez la réponse)	Vocabulaire italien	le quai	il binario	
+P?_0AJFH3$	Basique (saisissez la réponse)	Vocabulaire italien	un	uno	
+b>t0L]P@f`	Basique (saisissez la réponse)	Vocabulaire italien	deux	due	
+hZY5whXe+7	Basique (saisissez la réponse)	Vocabulaire italien	trois	tre	
+vv}YJ/Q0K,	Basique (saisissez la réponse)	Vocabulaire italien	quatre	quattro	
+dbLB+<cD6:	Basique (saisissez la réponse)	Vocabulaire italien	cinq	cinque	
+6pdNrNZWC	Basique (saisissez la réponse)	Vocabulaire italien	six	sei	
+q7aS}-ip0=	Basique (saisissez la réponse)	Vocabulaire italien	sept	sette	
+ECbPRkiOrm	Basique (saisissez la réponse)	Vocabulaire italien	huit	otto	
+CYH63`A6Oa	Basique (saisissez la réponse)	Vocabulaire italien	neuf (chiffre)	nove	
+wzSkptI~$>	Basique (saisissez la réponse)	Vocabulaire italien	dix	dieci	
+"ndJ<#QK8MY"	Basique (saisissez la réponse)	Vocabulaire italien	onze	undici	
+Hjb?zDs<)R	Basique (saisissez la réponse)	Vocabulaire italien	douze	dodici	
+k@b-Ysg`c7	Basique (saisissez la réponse)	Vocabulaire italien	treize	tredici	
+bvH?/z[~r`	Basique (saisissez la réponse)	Vocabulaire italien	quatorze	quattordici	
+BqlnInsXUQ	Basique (saisissez la réponse)	Vocabulaire italien	quinze	quindici	
+r)H0)p|@B)	Basique (saisissez la réponse)	Vocabulaire italien	seize	sedici	
+d]HAJ`3C~s	Basique (saisissez la réponse)	Vocabulaire italien	dix-sept	diciasette	
+hD!B<8?wgp	Basique (saisissez la réponse)	Vocabulaire italien	dix-huit	diciotto	
+Qp1!YAM<,w	Basique (saisissez la réponse)	Vocabulaire italien	dix-neuf	diciannove	
+wQd`qr={Gn	Basique (saisissez la réponse)	Vocabulaire italien	vingt	venti	
+"tky/^~#WtG"	Basique (saisissez la réponse)	Vocabulaire italien	vingt-et-un	ventuno	
+h+X|R;U0{0	Basique (saisissez la réponse)	Vocabulaire italien	vingt-trois	ventitré	
+Mi;L/t5<hO	Basique (saisissez la réponse)	Vocabulaire italien	trente	trenta	
+jYgJyD%%-?	Basique (saisissez la réponse)	Vocabulaire italien	quarante	quaranta	
+dc,m:m_T+<	Basique (saisissez la réponse)	Vocabulaire italien	cinquante	cinquanta	
+oXo<dbuCB5	Basique (saisissez la réponse)	Vocabulaire italien	soixante	sessanta	
+vLwH+lbq+v	Basique (saisissez la réponse)	Vocabulaire italien	soixante-dix	settanta	
+dzjw4ff&;L	Basique (saisissez la réponse)	Vocabulaire italien	cent	cento	
+wO_Pva|Qq5	Basique (saisissez la réponse)	Vocabulaire italien	cent-un	centouno	
+ilC^[lW3K_	Basique (saisissez la réponse)	Vocabulaire italien	deux-cents	duecento	
+"LP{Kt#J<&*"	Basique (saisissez la réponse)	Vocabulaire italien	Il est douze-heure quarante-cinq	Sono le dodici e quarantacinque	
+zGe&g$mNK8	Basique (saisissez la réponse)	Vocabulaire italien	Quelle heure est-il?	Che ora è?	
+"w?jN[a#aw)"	Basique (saisissez la réponse)	Vocabulaire italien	Il est midi	è mezzogiorno	
+q)*%G;qY1d	Basique (saisissez la réponse)	Vocabulaire italien	Il est minuit	è mezzonotte	
+L/%RBR@V9h	Basique (saisissez la réponse)	Vocabulaire italien	Il est neuf heures moins cinq	Sono le nove meno cinque	
+"oOzBVd%dS#"	Basique (saisissez la réponse)	Vocabulaire italien	Il est huit heures et quart.	Sono le otto e une quarto	
+y5y)o,e}Ce	Basique (saisissez la réponse)	Vocabulaire italien	Il est une heure	è l'una	
+t=$Ao&[<;j	Basique (saisissez la réponse)	Vocabulaire italien	Il est six heures et demi	Sono le sei e mezzo	
+v>=5yv2z!P	Basique (saisissez la réponse)	Vocabulaire italien	Il fait beau	Fa bel tempo	
+H@9voigB8<	Basique (saisissez la réponse)	Vocabulaire italien	un empêchement	un impegno	
+G$JhDMn2T(	Basique (saisissez la réponse)	Vocabulaire italien	Est-ce que cela te dit d'aller au cinema?	Che ne dici di andare al cinema?	
+l2y1uh`-:O	Basique (saisissez la réponse)	Vocabulaire italien	Je sais qu'il est très divertissant!	So che è molto divertente!	
+MN-<Y(:aGQ	Basique (saisissez la réponse)	Vocabulaire italien	Est-ce qu'on demande à Georgio et Paola s'ils veulent venir avec nous?	Chiediamo a Giorgio e Paola se vogliono venir con noi?	
+vfdq(j>zY?	Basique (saisissez la réponse)	Vocabulaire italien	avoir le temps de faire	fare in tempo a fare	
+N)]M0T5=~(	Basique (saisissez la réponse)	Vocabulaire italien	Tu sais conduire?	Sai guidare?	
+"D#_,h.w#1a"	Basique (saisissez la réponse)	Vocabulaire italien	je sais, tu sais, il sait	so, sai, sa	
+t*[erq*wFf	Basique (saisissez la réponse)	Vocabulaire italien	nous savons, vous savez, ils savent	sappiamo, sapete, sanno	
+qkgGR9OAZ}	Basique (saisissez la réponse)	Vocabulaire italien	sortir	uscire	
+bXMp=;gy7{	Basique (saisissez la réponse)	Vocabulaire italien	je sors, tu sors, il sort	esco, esci, esce	
+jetM;_P+2	Basique (saisissez la réponse)	Vocabulaire italien	nous sortons, vous sortez, ils sortent	usciamo, uscite, escono	
+M$j<3!Du[P	Basique (saisissez la réponse)	Vocabulaire italien	je suis sorti	sono uscito	
+Evj^x)a0t=	Basique (saisissez la réponse)	Vocabulaire italien	en sortant	uscendo	
+ArIz9j!+9s	Basique (saisissez la réponse)	Vocabulaire italien	j'ai su	ho saputo	
+O8[lk&X7iQ	Basique (saisissez la réponse)	Vocabulaire italien	en sachant	sapendo	
+t@ktO5R/j~	Basique (saisissez la réponse)	Vocabulaire italien	monter	salire	
+xw7T.N;_[L	Basique (saisissez la réponse)	Vocabulaire italien	je choisis, tu choisis, il choisit	scelgo, scegli, sceglie	
+J:,S;i56Kc	Basique (saisissez la réponse)	Vocabulaire italien	nous choissons, vous choisissez, ils choisissent	scegliamo, scegliete, scelgono	
+OUf6]a[OV-	Basique (saisissez la réponse)	Vocabulaire italien	j'ai choisi	ho scelto	
+j/]mAObU}<	Basique (saisissez la réponse)	Vocabulaire italien	rester	rimanere	
+HC&OSsVP@$	Basique (saisissez la réponse)	Vocabulaire italien	il y a un an	un anno fa	
+NhK%<%ZOz]	Basique (saisissez la réponse)	Vocabulaire italien	l'année précédente	l'anno passato	
+l$qIW26RKG	Basique (saisissez la réponse)	Vocabulaire italien	boire	bevere	
+iW%h[qv!E%	Basique (saisissez la réponse)	Vocabulaire italien	une orangeade	un' aranciata	
+HLp7V<220n	Basique (saisissez la réponse)	Vocabulaire italien	je monte, tu montes, il monte	salgo, sali, sale	
+EqwS;/wJE8	Basique (saisissez la réponse)	Vocabulaire italien	nous montons, vous montez, ils montent	saliamo, salite, salgono	
+Pd;)@fI2HS	Basique (saisissez la réponse)	Vocabulaire italien	l'étage	il piano	
+gHW6x+a8p0	Basique (saisissez la réponse)	Vocabulaire italien	la valise	la valigia	
+QtMz7Tc:WN	Basique (saisissez la réponse)	Vocabulaire italien	il monte à pied	sale a piedi	
+oPq34gqoZK	Basique (saisissez la réponse)	Vocabulaire italien	je reste, tu restes, il reste	rimango, rimani, rimane	
+dKF:QT!LT_	Basique (saisissez la réponse)	Vocabulaire italien	nous restons, vous restez, ils restent	rimaniamo, rimanete, rimangono	
+"KX#gTc8^O4"	Basique (saisissez la réponse)	Vocabulaire italien	un sac	un sacco	
+"Gq5b}#h7-h"	Basique (saisissez la réponse)	Vocabulaire italien	Je prends l'autobus deux fois par jour	Prendo l'autobus due volte al giorno	
+F<_pM%]B:W	Basique (saisissez la réponse)	Vocabulaire italien	Je préfère la mer à la montagne	Preferisco la mare alla montagna	
+z;H&YjjknS	Basique (saisissez la réponse)	Vocabulaire italien	Dans les bibliothèques, on ne peut pas fumer	Nelle biblioteche non si può fumare	
+jcy1,S]cci	Basique (saisissez la réponse)	Vocabulaire italien	Paolo va à la banque	Paolo va in banca	
+kE%Ff_pJr1	Basique (saisissez la réponse)	Vocabulaire italien	Paolo va à la banque d'Italie	Paolo va alla Banca d'Italia	
+C[M/NH9czB	Basique (saisissez la réponse)	Vocabulaire italien	Paolo va à la bibliothèque	Paolo va in bilbioteca	
+dt+)r~+1Rw	Basique (saisissez la réponse)	Vocabulaire italien	Paolo va à la bibliothèque de l'université	Paolo va alla biblioteca dell'università	
