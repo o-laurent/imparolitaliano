@@ -1,0 +1,3 @@
+# Anki cards for French people learning Italian
+
+Publicly saving my cards here, in the very unlikely case that it would help someone else...
