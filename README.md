@@ -1,3 +1,3 @@
-# Anki cards for French people learning Italian
+# Anki cards for French people learning Italian (or Italians learning French!)
 
 Publicly saving my cards here, in the very unlikely case that it would help someone else...
